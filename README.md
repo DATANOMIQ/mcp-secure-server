@@ -1,6 +1,6 @@
 # Secure MCP Server with NGINX, Supergateway, and Render
 
-How to securely expose a Model Context Protocol (MCP) Server using Supergateway, protected by NGINX basic authentication, and deployed to Render. The full article is on [dev.to](https://dev.to/datitran/secure-mcp-server-with-nginx-supergateway-render-dej-temp-slug-2016036).
+How to securely expose a Model Context Protocol (MCP) Server using Supergateway, protected by NGINX basic authentication, and deployed to Render. The full article is on [dev.to](https://dev.to/datitran/secure-mcp-server-with-nginx-supergateway-render-4i80).
 
 ## Overview
 
